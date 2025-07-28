@@ -75,6 +75,8 @@ Our vision is to transform the rental industry by leveraging blockchain technolo
 - **Gas Optimization**: Efficient contract design minimizing deployment and transaction costs
 - **Security Auditing**: Comprehensive security testing and formal verification processes
 
+Contract address:- 0x923e7Ba1A87921Efb59496ed4B246063E0bE00c0
+
 ---
 
 *This project represents the future of rental agreements, combining the security of blockchain technology with the efficiency of smart contracts to create a truly decentralized rental ecosystem.*
